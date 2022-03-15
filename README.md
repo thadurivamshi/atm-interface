@@ -1,2 +1,2 @@
 # ATM-Machine
-ATM machine written in Java, with interface.
+ATM machine written in Java.
